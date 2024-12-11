@@ -87,7 +87,7 @@ all of MD as it is not optimized for dense, information rich UIs.
    */
 
   --jp-border-width: 1px;
-  --jp-border-color0: var(--md-grey-400, #bdbdbd);
+  --jp-border-color0: #e4eef9;
   --jp-border-color1: var(--md-grey-400, #bdbdbd);
   --jp-border-color2: var(--md-grey-300, #e0e0e0);
   --jp-border-color3: var(--md-grey-200, #eee);
@@ -198,8 +198,8 @@ all of MD as it is not optimized for dense, information rich UIs.
 
   --jp-layout-color0: white;
   --jp-layout-color1: white;
-  --jp-layout-color2: var(--md-grey-200, #eee);
-  --jp-layout-color3: var(--md-grey-400, #bdbdbd);
+  --jp-layout-color2: #f8f9fa;
+  --jp-layout-color3: #f8f9fa;
   --jp-layout-color4: var(--md-grey-600, #757575);
 
   /* Inverse Layout

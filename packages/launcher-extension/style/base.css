@@ -7,6 +7,7 @@
   .jp-ToolbarButtonComponent[data-command='launcher:create'] {
   width: 72px;
   background: var(--jp-accept-color-normal, var(--jp-brand-color1));
+  border-radius: 10px;
 }
 
 .jp-FileBrowser-toolbar
@@ -23,4 +24,5 @@
   .jp-ToolbarButtonComponent[data-command='launcher:create']
   .jp-icon3 {
   fill: var(--jp-layout-color1);
+  stroke: var(--jp-layout-color1);
 }

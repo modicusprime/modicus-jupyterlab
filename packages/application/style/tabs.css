@@ -58,6 +58,7 @@
   border: var(--jp-border-width) solid var(--jp-border-color1);
   border-bottom: none;
   position: relative;
+  border-radius: 5px;
 }
 
 .lm-DockPanel-tabBar .lm-TabBar-tab:focus-visible,
@@ -121,7 +122,7 @@
 
 /* This is the left tab bar current tab: only 1 exists. */
 .lm-TabBar-tab.lm-mod-current {
-  background: var(--jp-layout-color1);
+  background: #e4eef9;
   color: var(--jp-ui-font-color1);
 }
 

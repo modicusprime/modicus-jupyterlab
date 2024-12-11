@@ -99,6 +99,7 @@
 
 .lm-MenuBar-item.lm-mod-active {
   background: var(--jp-layout-color2);
+  background: #e6f1fc;
 }
 
 .lm-MenuBar.lm-mod-active .lm-MenuBar-item.lm-mod-active {
